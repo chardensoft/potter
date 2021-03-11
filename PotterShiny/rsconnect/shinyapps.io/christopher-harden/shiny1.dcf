@@ -1,0 +1,10 @@
+name: shiny1
+title:
+username:
+account: christopher-harden
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3149082
+bundleId: 4039833
+url: https://christopher-harden.shinyapps.io/shiny1/
+when: 1609271419.70695
